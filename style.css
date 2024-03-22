@@ -1,0 +1,36 @@
+#app {
+    background-image: url('https://i.redd.it/bwnjsygz9q2b1.png');
+    min-height: 100vh; 
+    background-size: cover; 
+    color: white
+}
+button {
+    width: 11vh;
+    height: 3.5vh;
+    background-color: hsl(39, 74%, 72%);
+    color: hsl(236, 75%, 51%)
+}
+
+button:hover {
+    width: 11vh;
+    height: 3.5vh;
+    background-color: hsl(39, 74%, 77%);
+}
+
+button:active {
+    width: 11vh;
+    height: 3.5vh;
+    background-color: hsl(39, 74%, 82%);
+}
+
+.textdisplay {
+    background-color: hsl(45, 64%, 75%);
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: hsl(236, 75%, 51%)
+}
+.textdisplay:hover{
+    background-color: hsl(45, 64%, 80%);
+}

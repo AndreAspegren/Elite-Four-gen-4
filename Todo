@@ -1,0 +1,115 @@
+Sekvenser i pokemon
+
+1 player move input starter sekvensen
+2 sjekk hvem som er raskest 
+3 raskeste pokemon announcer movet 
+4 raskeste pokemon gjør movet
+5 sjekk om tregeste pokemon er dead og isåfall ende turnen og sende ut neste 
+6 tregeste pokemon announcer movet
+7 tregeste pokemon gjør movet 
+8 sjekk om raskeste pokemon er dead og isåfall ende turnen og sende ut neste 
+9 end of turn events
+10 runden slutter 
+
+To do:
+
+Sette lyder for pokemon spawn og death
+Balanser spillet
+
+
+Movelist:
+
+Tackle              done
+Growl               done
+Swords dance        done
+Shadow ball         done
+Rollout             done
+Lunar blessing      done 
+Will o wisp         done
+Stone edge          done
+Recover             done
+Takedown            done
+Close Combat        done
+Megahorn            done    
+Crunch              done         
+Flare Blitz         done       
+Iron Tail           done     
+Nasty Plot          done
+Double Edge         done
+Dragon Rush         done      
+Brave Bird          done
+Earthquake          done
+Draco Meteor        done
+Calm Mind           done
+Judgement           done   
+Surf                done    
+Splash              done
+Dragon Tail         done
+Giga impact         done for player
+Thunder Wave        done
+Body Slam           done         
+Thunderbolt         done
+Protect             done kek
+Explosion           done
+Mach Punch          done
+Thief               done
+Knock Off           done
+Zen Headbutt        done 
+Bite                done           
+Fire Fang           done   
+Trick Room          done
+Poison Jab          done
+
+to do
+
+lag power up punch og dragon dance
+
+
+Elite four
+
+Aaron:
+Heracross       Close Combat    Megahorn        Swords Dance    Thief  
+Drapion         Knock Off       Toxic           Bite            Earthquake
+
+Bertha:
+Golem           Explosion       Stone Edge      Sandstorm       Earthquake
+Hippowdon       Fire Fang       Earthquake      Crunch          Body Slam    
+
+Flint
+Rapidash        Flare Blitz     Protect         Will o wisp     Iron Tail
+Infernape       Close Combat    Mach Punch      Will o wisp     Flare Blitz      
+
+Lucian
+Bronzong        Trick Room      Zen Headbutt    Earthquake      Bulldoze                            
+Alakazam        Psychic         Hyponosis       Nasty Plot      Thunderbolt
+
+Cynthia
+Garchomp        Earthquake      Dragon Rush     Earthquake      Dragon Tail     
+Bidoof          Recover         Dragon Rush     Brave Bird      Body Slam
+
+
+Dwebble     done
+Pikachu     done
+Garchomp    done
+Fritzee     done
+Froakie     done
+Gengar      done
+Geodude     done
+Gible       done
+Drapion     done
+Heracross   done
+Hippowdon   done    
+Golem       done
+Rapidash    done
+Infernape   done    
+Bronzong    done
+Alakazam    done
+Lugia       done
+Bidoof      done  
+Weavile     done
+Slowbro     done
+Breloom     done
+Arceus      done
+Magikarp    done
+
+
