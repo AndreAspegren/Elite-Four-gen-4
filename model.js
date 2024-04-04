@@ -593,7 +593,7 @@ let playermovemessage;
 let rivalmovemessage;
 let buttonsenabled = true;
 let speedcheck;
-let currentview = "start";
+let currentview = ""
 let battlemessage = ''
 let playerrosterlength;
 let rivalrosterlength;
